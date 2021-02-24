@@ -27,4 +27,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mario&show_icons=true&locale=en&layout=compact" alt="StatusMario" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mario-Celso&show_icons=true&locale=en&layout=compact" alt="StatusMario-Celso" /></p>
